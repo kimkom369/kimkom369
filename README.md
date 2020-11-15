@@ -1,9 +1,8 @@
-### Hi there 👋
 
 ![](WebDevloper.png)
 
 
-Here are some ideas to get you started:
+                                                     ### Hi there 👋
 
 - 🔭 I’m currently working on ... freelancing
 - 🌱 I’m currently learning ...React.js & Redux
