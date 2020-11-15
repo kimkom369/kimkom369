@@ -3,7 +3,7 @@
 
 
                                                            
-                                                          About Me 👨🏽‍💻  :
+                                                           About Me 👨🏽‍💻  :
                                                           
                                                    Hi There, I'm Kim Komercharo !
                                                  im a junior full stack developer.
