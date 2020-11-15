@@ -2,9 +2,18 @@
 ![](WebDevloper.png)
 
 
-                                                     ### Hi there 👋
+                                                       
                                                      
-                                                  I'm Kim Komercharo 👨🏽‍💻
+                                                 Hi There, I'm Kim Komercharo
+                                                im a junior full stack developer  👨🏽‍💻 
+                                                
+                                            I love coding and desiging web applications
+                                                 in both Java & and javascript </> 
+                                                 
+                                                
+
+
+
 
 - 🔭 I’m currently working on ... freelancing
 - 🌱 I’m currently learning ...React.js & Redux
