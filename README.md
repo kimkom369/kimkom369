@@ -3,6 +3,8 @@
 
 
                                                      ### Hi there 👋
+                                                     
+                                                  I'm Kim Komercharo 👨🏽‍💻
 
 - 🔭 I’m currently working on ... freelancing
 - 🌱 I’m currently learning ...React.js & Redux
