@@ -21,7 +21,7 @@
                                                           How to reach me 📫 :
                                                           
                                                         You can reach via mail
-                                                          mikekom@gmail.com
+                                                          mikekom369@gmail.com
                                                            
                                                           or via social media 
                                                       www.linkedin.com/in/kimkom/
