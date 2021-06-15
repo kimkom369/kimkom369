@@ -6,16 +6,16 @@
                                                             About Me 👨🏽‍💻 :
                                                           
                                                    Hi There, I'm Kim Komercharo !
-                                                 im a junior full stack developer.
+                                                       im a software developer.
                                                 
-                                            I love coding and desiging web applications
-                                                 in both Java & and javascript </>
-                                             currently im learning about React.js & Redux.
-                                                 
-                                                          Technologies 🤖 :
+                                            I love coding and desiging complex applications
+                                                      in both Java & javascript </>
+                                            
+                                               
+                                                           Technologies 🤖 :
                                                           
-                                                  Java, Javascript, HTML5, CSS3, SCSS 
-                                                Angular, Spring, Node.Js, MongoDb, MySQL.
+                                            Java, Javascript, Python, C++, HTML5, CSS3, SCSS 
+                                          Angular, Spring, Node.Js, MongoDb, MySQL, PostgreSQL.
                                                 
 
                                                           How to reach me 📫 :
