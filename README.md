@@ -9,7 +9,7 @@
                                                        im a software developer.
                                                 
                                             I love coding and desiging complex applications
-                                                      in both Java & javascript </>
+                                                                </>
                                             
                                                
                                                            Technologies 🤖 :
