@@ -1,7 +1,7 @@
 
                                                
 <h1 align="center">Hi 👋, I'm Kim Komercharo
-<img src="dev.png" height="40" width="30"  />    
+<img src="dev.png" height="150" width="100"  />    
   <h3 align="center">A Salesforce Admin/Developer</h3>
 </h1>
 
