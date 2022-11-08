@@ -6,7 +6,6 @@
 </h1>
 
 
-<img src="dev.png" float="right" />
 
 - 🔭 I’m currently working on **Three.JS Projects**
 
