@@ -1,9 +1,10 @@
 
                                                
 <h1 align="center">Hi 👋, I'm Kim Komercharo
-<img src="dev.png"  />    
+<img src="dev.png" height="40" width="30"  />    
+  <h3 align="center">A Salesforce Admin/Developer</h3>
 </h1>
-<h3 align="center">A Salesforce Admin/Developer</h3>
+
 
 - 🔭 I’m currently working on **Three.JS Projects**
 
