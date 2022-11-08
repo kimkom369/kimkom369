@@ -2,7 +2,7 @@
 ![](kimkomBanner.png)
 
 
-                                                           
+<img src="kimkomBanner.png" />                                                   
 <h1 align="center">Hi 👋, I'm Kim Komercharo</h1>
 <h3 align="center">A Salesforce Admin/Developer</h3>
 
