@@ -52,7 +52,7 @@
 </a>
    <!-- THREE JS -->
    <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/threejs/threejs-original-wordmark.svg" width="45" height="45">
+   <img src="3js.png" width="45" height="45" alt="three.js" />
    </a>
      <!-- REACT -->
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
