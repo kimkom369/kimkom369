@@ -127,8 +127,8 @@
 
 <h3 align="center">Connect with me:</h3>
  <!-- CODEPEN -->
-<a href="https://codepen.io/kimkom369" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kimkom369" height="25" width="30" /></a>
+<a href="https://codepen.io/kimkom369" align="center" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kimkom369" height="25" width="30" /></a>
  <!-- LINKEDIN -->
-<a href="https://linkedin.com/in/www.linkedin.com/in/kimkom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kimkom" height="25" width="30" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/kimkom" align="center" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kimkom" height="25" width="30" /></a>
   </div>
                                                      
