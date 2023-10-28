@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kim Komercharo
   </br>
 <img src="marginalia-programming.gif"  />    
-  <h3 align="center">A Salesforce Admin/Developer</h3>
+  <h3 align="center">Creative Developer</h3>
 </h1>
 
 
